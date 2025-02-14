@@ -42,10 +42,10 @@ You need to create a `.env` file in the root of your project with the following 
 PORT=3000
 DB_HOST=localhost
 DB_USER=root
-DB_PASSWORD=yourpassword
+DB_PASSWORD=Ansh@123
 DB_NAME=irctc_db
 JWT_SECRET=your_jwt_secret
-API_KEY=your_admin_api_key
+API_KEY=ansh_g
 ```
 
 ### Installation
